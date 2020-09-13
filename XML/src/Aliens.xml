@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aliens SYSTEM "alientype.dtd">
+
+<aliens>
+	<alien aid="j1" lang="C">
+		<name>param</name>
+		<salary>3000</salary>
+	</alien>
+	<alien aid='y'>
+		<name>param</name>
+		<salary>3000</salary>
+	</alien> 
+</aliens>
